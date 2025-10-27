@@ -1,6 +1,6 @@
-## 👨‍💻 Gustavo Henrique | Desenvolvedor de Software
-### Bem-vindo(a)!
-#### Aqui compartilho projetos, estudos, ideias e soluções desenvolvidas durante minha jornada na área de Tecnologia da Informação. Sou apaixonado pela programação, desenvolvimento e tecnologias que transformam o mundo.
+# 👨‍💻 Gustavo Henrique | Desenvolvedor de Software
+## Bem-vindo(a)!
+### Aqui compartilho projetos, estudos, ideias e soluções desenvolvidas durante minha jornada na área de Tecnologia da Informação. Sou apaixonado pela programação, desenvolvimento e tecnologias que transformam o mundo.
 
 
 ## 🚀 Sobre mim
