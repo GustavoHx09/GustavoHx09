@@ -11,8 +11,8 @@
 
 
 ## 🛠️ Tecnologias & Ferramentas
-- 💻 Linguagens: HTML5, CSS3, JavaScript, PHP, SQL, Java
-- 🖥️ Frontend: Bootstrap, JavaScript (em aprendizado)
+- 💻 Linguagens: HTML5, CSS, JavaScript, PHP, SQL, Java
+- 🖥️ Frontend: Bootstrap, JavaScript (em aprendizado), CSS Nativo
 - 🔙 Backend: PHP, Java
-- 🔧 Ferramentas: Git, GitHub, VS Code, Figma, Eclipe IDE
-- 🗃️ Banco de Dados: MySQL, PostgreSQL, FireBase
+- 🔧 Ferramentas: Git, GitHub, VS Code, Figma, Eclipe IDE, Script Case
+- 🗃️ Banco de Dados: MySQL, PostgreSQL, FireBase, SQLServer
