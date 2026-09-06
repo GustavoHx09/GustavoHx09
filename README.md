@@ -8,4 +8,4 @@ Atualmente estou no desenvolvimento do **CallWa**, uma plataforma full stack par
 
 Busco oportunidades para construir produtos escaláveis, seguros e bem estruturados.
 
-[Portfólio](https://github.com/GustavoHx09/meu-portfolio) · [LinkedIn](https://www.linkedin.com/in/gustavohx091104/)
+[Portfólio](https://gustavohx09-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/gustavohx091104/)
